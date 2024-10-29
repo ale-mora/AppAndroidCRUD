@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppCRUD</string>
+    <string name="password">Password</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="e_mail">E-mail</string>
+    <string name="salir">Salir</string>
+    <string name="lista">Lista</string>
+    <string name="crear">Crear</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
